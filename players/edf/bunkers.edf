@@ -1,0 +1,16 @@
+<def name="Bunkers">
+	<element name="bunker" friendlyname="Bunker" icon="edf/zombiespawn.png">
+		<data name="model" type="objectID" default="3852" />
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="rotation" type="coord3d" default="0,0,0" />
+		<data name="num" type="number" default="1" />
+		<object model="3852"/>		
+	</element>
+	<element name="zomb" friendlyname="Zombie" icon="edf/zombiespawn.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="model" type="model" default="7" />
+		<data name="rotation" type="coord3d" default="0,0,0" />
+		<data name="num" type="number" default="1" />
+		<object model="3852"/>		
+	</element>
+</def>

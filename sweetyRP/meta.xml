@@ -1,0 +1,112 @@
+<meta>
+     <info author="PrettySweetie" name="JerichoRPG v.97" type="gamemode" version="1.1"/>
+     <script src="script.lua" />
+     <script src="chat_system.lua" />
+	  <script src="client/main.lua" type="client"/>
+
+	<include resource="utils" />
+	<include resource="peds" />
+	<include resource="scoreboard" />
+	<include resource="dtext" />
+	<include resource="npc_hlc" />
+	<include resource="textLib" />
+	<include resource="bank" />
+	<include resource="perks" />
+    <include resource="buildings" />
+    <include resource="new_jobs" />
+	<include resource="bunkers" />
+    <include resource="players" />
+    <include resource="mapzombie" />
+	<include resource="banko" />
+	<include resource="mafiab" />
+	<include resource="hospital" />
+	<include resource="detective" />
+	<include resource="submarine" />
+	<include resource="caravan" />
+	<include resource="trash" />
+	<include resource="bone_attach" />
+	<include resource="h" />
+	<include resource="mayor_build" />
+	<include resource="GorodishkaGorodok" />
+	<include resource="decorate" />
+	<include resource="shadertest" />
+	<include resource="NCR001" />
+	<include resource="Metro203" />
+	<include resource="prison" />
+	<include resource="tunnel" />
+	<include resource="green" />
+	<include resource="most" />
+	<include resource="chaos" />
+	<include resource="mapV1" />
+	<include resource="animation" />
+	<include resource="sfcol" />
+	<include resource="rivet" />
+	<include resource="shop" />
+	<include resource="baseben" />
+	<include resource="base-pesher" />
+	<include resource="blwh" />
+	<include resource="houses" />
+<!-- 	<include resource="milbase" /> -->
+	<include resource="naem" />
+    <include resource="mxSkinSelector" />
+    <include resource="nz" />
+	<include resource="reborn" />
+    <include resource="safezones" />
+    <include resource="achievments" />
+	<include resource="quests" />
+	<include resource="traders" />
+	<include resource="inventory" />
+	<include resource="radzones" />
+	<include resource="loot" />
+	<include resource="safes" />
+	<include resource="interaction" />
+	<include resource="night" />
+	<include resource="ambisound" />
+	<include resource="gates" />
+	<include resource="modshop" />
+	<!--<include resource="shader_detail" />-->
+	<include resource="pipboy" />
+	<include resource="palomino" />
+	<include resource="klamb" />
+<!-- 	<include resource="sfbase2" /> -->
+	<include resource="hotel" />
+	<include resource="dayzmap" />
+	<include resource="ls_waste" />
+	<include resource="particle_objects" />
+	<include resource="cweap_jericho" />
+	<include resource="login_jericho" />
+	<include resource="changes" />
+	<include resource="changes2" />
+	<include resource="vehicles" />
+	<include resource="bosbase" />
+	<include resource="777_fallout" />
+	<include resource="Raiders-base-2" />
+	<include resource="head_moving" />
+	<include resource="donat" />
+	<include resource="bsystem_jericho" />
+	<include resource="base_badovsky" />
+	<include resource="new_lv_base" />
+	<include resource="Base-LV" />
+	<include resource="base_enclave" />
+	<include resource="setups" />
+	<!--<include resource="reload" />-->
+	<include resource="sdj" />
+	<include resource="boss" />
+	<include resource="sniper" />
+	<include resource="zombie_arena" />
+	<include resource="groups_jericho" />
+	<include resource="case" />
+	<include resource="voice_local" />
+	<include resource="map_dayz_addon" />
+	<include resource="bands" />
+	<include resource="payment" />
+	<include resource="treasure" />
+
+     <file src="ServerProp.xml" type="server" />
+
+     <export function="playerToPoint"/>
+     <export function="sendActionMessageServer"/>
+	<export function="sendActionMessageClient" type="client" />
+	<export function="sendActionMessage" type="client" />
+
+</meta>

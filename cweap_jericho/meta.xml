@@ -1,0 +1,84 @@
+<meta>
+	<info author="PrettySweetie" version="1.0" type="scrpit"/>
+	<script src="config.lua" type="shared"/>
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="loadmods.lua" type="client"/>
+	<script src="reload_c.lua" type="client"/>
+
+	<export function="getWeaponStats" type="shared"/>
+	<export function="checkPlayerFireAllow" type="server"/>
+	<export function="getPlayerCurrentWeaponStats" type="shared"/>
+	<file src="19.wav" cache="false" />
+	<file src="mods/empty.txd" />
+	<file src="mods/empty.dff" />
+	<file src="mods/akm.dff" />
+	<file src="mods/akm.txd" />
+	<file src="mods/colt45.dff" />
+	<file src="mods/colt45.txd" />
+	<file src="mods/colt45ex.dff" />
+	<file src="mods/colt45ex.txd" />
+	<file src="mods/maria.dff" />
+	<file src="mods/maria.txd" />
+	<file src="mods/coltmachine.dff" />
+	<file src="mods/coltmachine.txd" />
+	<file src="mods/10mmsmg.dff" />
+	<file src="mods/10mmsmg.txd" />
+	<file src="mods/127smg.dff" />
+	<file src="mods/127smg.txd" />
+	<file src="mods/gauss.dff" />
+	<file src="mods/gauss.txd" />
+	<file src="mods/127pistol.dff" />
+	<file src="mods/127pistol.txd" />
+	<file src="mods/357magnum.dff" />
+	<file src="mods/357magnum.txd" />
+	<file src="mods/alien.dff" />
+	<file src="mods/alien.txd" />
+	<file src="mods/hunting_revolver.dff" />
+	<file src="mods/hunting_revolver.txd" />
+	<file src="mods/ranger.dff" />
+	<file src="mods/ranger.txd" />
+	<file src="mods/10mmpistol.dff" />
+	<file src="mods/10mmpistol.txd" />
+	<file src="mods/m4.dff" />
+	<file src="mods/m4.txd" />
+	<file src="mods/sniper.dff" />
+	<file src="mods/sniper.txd" />
+	<file src="mods/pewpew.dff" />
+	<file src="mods/pewpew.txd" />
+	<file src="mods/infi.dff" />
+	<file src="mods/infi.txd" />
+	
+	<file src="sounds/akm/fire.wav" />
+	<file src="sounds/akm/equip.wav" />
+	<file src="sounds/akm/reload.wav" />
+	
+	<file src="sounds/colt45/fire.wav" />
+	<file src="sounds/colt45/reload.wav" />
+	
+	<file src="sounds/10mm/fire.wav" />
+	<file src="sounds/10mm/reload.wav" />
+	
+	<file src="sounds/127mm/fire.wav" />
+	<file src="sounds/127mm/reload.wav" />
+	
+	<file src="sounds/gauss/fire.wav" />
+	<file src="sounds/gauss/reload.wav" />
+	
+	<file src="sounds/357magnum/fire.wav" />
+	<file src="sounds/357magnum/reload.wav" />
+	
+	<file src="sounds/alien/fire.wav" />
+	<file src="sounds/alien/reload.wav" />
+	
+	<file src="sounds/huntingrevolver/fire.wav" />
+	<file src="sounds/huntingrevolver/reload.wav" />
+	
+	<file src="sounds/m4/fire.wav" />
+	<file src="sounds/m4/reload.wav" />
+	
+	<file src="sounds/shotgun/fire.wav" />
+	<file src="sounds/shotgun/reload.wav" />
+	
+	<min_mta_version client="1.3.0-9.04555" />
+</meta>

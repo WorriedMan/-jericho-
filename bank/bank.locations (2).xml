@@ -1,0 +1,25 @@
+<banks>
+	<bank name="Western Onion" blip="true">
+		<location posX="361.8298" posY="173.6187" posZ="1008.3828" ATM="false" ATMRot="0.0" interior="3" />
+		<entrance posX="2412.7126" posY="1123.8426" posZ="10.8203" teleX="387.8428" teleY="173.6187" teleZ="1008.3828" teleRot="90" teleInterior="3" />
+		<exit posX="389.8428" posY="173.6187" posZ="1008.3828" teleX="2414.7126" teleY="1123.0426" teleZ="10.8203" teleRot="270" teleInterior="0" interior="3" />
+	</bank>
+
+	<bank name="Western Onion ATM #1" blip="false" depositAllowed="false" >
+		<location posX="360.07577514648" posY="188.58430175781" posZ="1008.3828125" ATM="true" interior="3" ATMRot="0.0" markerSize="1" />
+	</bank>
+	<bank name="Western Onion ATM #2" blip="false" depositAllowed="false" ATMInterior="3" >
+		<location posX="364.07577514648" posY="188.58430175781" posZ="1008.3828125" ATM="true" interior="3" ATMRot="0.0" markerSize="1" />
+	</bank>
+
+	<bank name="Western Onion ATM #3" ATMInterior="3" >
+		<location posX="2630.6667480469" posY="1655.393046875" posZ="11.0234375" ATM="true" interior="0" ATMRot="180.0" markerSize="1" />
+	</bank>
+<!--  
+	<bank name="Bank name here" blip="true" depositAllowed="true" >
+		<location posX="0.0" posY="0.0" posZ="0.0" ATM="false" ATMRot="0.0" markerSize="2" interior="0" />
+		<entrance posX="0.0" posY="0.0" posZ="0.0" teleX="0.0" teleY="0.0" teleZ="0.0" teleRot="0.0" teleInterior="0" />
+		<exit posX="0.0" posY="0.0" posZ="0.0" teleX="0.0" teleY="0.0" teleZ="0.0" teleRot="0.0" teleInterior="0" interior="0" />
+	</bank>
+-->
+</banks>

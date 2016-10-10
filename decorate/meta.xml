@@ -1,0 +1,4 @@
+<meta>
+    <info isRemovalMap="true"></info>
+    <script src="loader.lua" type="client"></script>
+</meta>

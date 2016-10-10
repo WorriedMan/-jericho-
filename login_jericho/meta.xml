@@ -1,0 +1,20 @@
+<meta>
+     <info author="PrettySweetie" name=" " version="1" description=""/>
+     <file src="background.mp3"/>
+     <file src="passbad.wav"/>
+     <file src="charenter.wav"/>
+     <file src="font.ttf"/>
+	 
+	 <script src="camera.lua" type="client"/>
+	 <script src="pipos_button.lua" type="client"/>
+	 <script src="pipos_edit.lua" type="client"/>
+	 <script src="pipos_window.lua" type="client"/>
+	 
+	 <script src="client.lua" type="client"/>
+	 
+	 <script src="server.lua" type="server"/>
+	 <script src="news.lua" type="server"/>
+	 <export function="loadLoginWindow" type="client" />
+	 <export function="addNews" type="server" />
+
+</meta>

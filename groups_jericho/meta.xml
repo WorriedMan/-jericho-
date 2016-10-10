@@ -1,0 +1,16 @@
+<meta>
+     <info author="PrettySweetie" name="New groups system" version="1" description=""/>
+     
+	 <script src="shared.lua" type="shared"/>
+	 
+	 <script src="client.lua" type="client"/>
+	 
+	 <script src="utils_server.lua" type="server"/>
+	 <script src="server.lua" type="server"/>
+	
+	<export function="setGroupRating"/>
+	<export function="getGroupRating"/>
+	<export function="getGroupByName"/>
+	<export function="givePlayerGroupRating"/>
+
+</meta>

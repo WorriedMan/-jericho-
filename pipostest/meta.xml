@@ -1,0 +1,9 @@
+<meta>
+     <info author="PrettySweetie" name=" " version="1" description=""/>
+	 <include resource="pipos" />
+	 <script src="client.lua" type="client"/>
+	 
+	 <script src="server.lua" type="server"/>
+	 
+
+</meta>

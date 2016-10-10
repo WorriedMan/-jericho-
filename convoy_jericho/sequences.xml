@@ -1,0 +1,384 @@
+<sequences>
+    <sequence id="1" name="Car-NV">
+        <task id="1">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1167.3798"></parameter>
+            <parameter id="3" type="number" value="1374.1997"></parameter>
+            <parameter id="4" type="number" value="10.671875"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="40"></parameter>
+        </task>
+        <task id="2">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1194.151"></parameter>
+            <parameter id="3" type="number" value="1364.5327"></parameter>
+            <parameter id="4" type="number" value="7.5282803"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="20"></parameter>
+        </task>
+        <task id="3">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1206.578"></parameter>
+            <parameter id="3" type="number" value="1323.3059"></parameter>
+            <parameter id="4" type="number" value="6.734375"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="30"></parameter>
+        </task>
+        <task id="4">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1205.7451"></parameter>
+            <parameter id="3" type="number" value="1040.0233"></parameter>
+            <parameter id="4" type="number" value="6.8125"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="100"></parameter>
+        </task>
+        <task id="5">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1196.9897"></parameter>
+            <parameter id="3" type="number" value="969.91614"></parameter>
+            <parameter id="4" type="number" value="7.8257647"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="50"></parameter>
+        </task>
+        <task id="6">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1159.674"></parameter>
+            <parameter id="3" type="number" value="900.68652"></parameter>
+            <parameter id="4" type="number" value="10.861354"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="60"></parameter>
+        </task>
+        <task id="7">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1099.1011"></parameter>
+            <parameter id="3" type="number" value="832.75024"></parameter>
+            <parameter id="4" type="number" value="10.671875"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="60"></parameter>
+        </task>
+        <task id="8">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="921.39484"></parameter>
+            <parameter id="3" type="number" value="738.10327"></parameter>
+            <parameter id="4" type="number" value="10.711567"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="100"></parameter>
+        </task>
+        <task id="9">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="804.22638"></parameter>
+            <parameter id="3" type="number" value="691.85254"></parameter>
+            <parameter id="4" type="number" value="11.499577"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="100"></parameter>
+        </task>
+        <task id="10">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="678.44275"></parameter>
+            <parameter id="3" type="number" value="669.62195"></parameter>
+            <parameter id="4" type="number" value="8.5858822"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="60"></parameter>
+        </task>
+        <task id="11">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="559.72437"></parameter>
+            <parameter id="3" type="number" value="690.35114"></parameter>
+            <parameter id="4" type="number" value="3.3769572"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="50"></parameter>
+        </task>
+        <task id="12">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="399.49884"></parameter>
+            <parameter id="3" type="number" value="769.21759"></parameter>
+            <parameter id="4" type="number" value="7.1154437"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="80"></parameter>
+        </task>
+        <task id="13">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="359.4353"></parameter>
+            <parameter id="3" type="number" value="790.06378"></parameter>
+            <parameter id="4" type="number" value="7.0840864"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="35"></parameter>
+        </task>
+        <task id="14">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="340.42838"></parameter>
+            <parameter id="3" type="number" value="800.5014"></parameter>
+            <parameter id="4" type="number" value="9.8921051"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="25"></parameter>
+        </task>
+        <task id="15">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="308.8176"></parameter>
+            <parameter id="3" type="number" value="827.67004"></parameter>
+            <parameter id="4" type="number" value="15.264503"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="25"></parameter>
+        </task>
+        <task id="16">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="263.88126"></parameter>
+            <parameter id="3" type="number" value="893.62317"></parameter>
+            <parameter id="4" type="number" value="23.571173"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="50"></parameter>
+        </task>
+        <task id="17">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="237.74713"></parameter>
+            <parameter id="3" type="number" value="944.53284"></parameter>
+            <parameter id="4" type="number" value="27.53948"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="50"></parameter>
+        </task>
+        <task id="18">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="216.7514"></parameter>
+            <parameter id="3" type="number" value="996.10168"></parameter>
+            <parameter id="4" type="number" value="28.942774"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="100"></parameter>
+        </task>
+        <task id="19">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="181.8613"></parameter>
+            <parameter id="3" type="number" value="1134.011"></parameter>
+            <parameter id="4" type="number" value="14.50499"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="100"></parameter>
+        </task>
+        <task id="20">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="159.1344"></parameter>
+            <parameter id="3" type="number" value="1154.7137"></parameter>
+            <parameter id="4" type="number" value="14.524813"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="70"></parameter>
+        </task>
+        <task id="21">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="109.3401"></parameter>
+            <parameter id="3" type="number" value="1210.4768"></parameter>
+            <parameter id="4" type="number" value="20.749378"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="70"></parameter>
+        </task>
+        <task id="22">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="70.273743"></parameter>
+            <parameter id="3" type="number" value="1242.1135"></parameter>
+            <parameter id="4" type="number" value="19.262608"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="70"></parameter>
+        </task>
+        <task id="23">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="2.8176143"></parameter>
+            <parameter id="3" type="number" value="1264.1029"></parameter>
+            <parameter id="4" type="number" value="10.099012"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="70"></parameter>
+        </task>
+        <task id="24">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-56.101303"></parameter>
+            <parameter id="3" type="number" value="1262.4078"></parameter>
+            <parameter id="4" type="number" value="10.343805"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="60"></parameter>
+        </task>
+        <task id="25">
+            <parameter id="1" type="string" value="driveAroundBend"></parameter>
+            <parameter id="2" type="number" value="-60.35733"></parameter>
+            <parameter id="3" type="number" value="1281.5092"></parameter>
+            <parameter id="4" type="number" value="-62.198692"></parameter>
+            <parameter id="5" type="number" value="1261.829"></parameter>
+            <parameter id="6" type="number" value="11.823318"></parameter>
+            <parameter id="7" type="number" value="-75.238869"></parameter>
+            <parameter id="8" type="number" value="1291.0665"></parameter>
+            <parameter id="9" type="number" value="11.835315"></parameter>
+            <parameter id="10" type="number" value="10"></parameter>
+            <parameter id="11" type="number" value="5"></parameter>
+        </task>
+        <task id="26">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-68.480644"></parameter>
+            <parameter id="3" type="number" value="1343.7902"></parameter>
+            <parameter id="4" type="number" value="11.677485"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="60"></parameter>
+        </task>
+        <task id="27">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-76.860214"></parameter>
+            <parameter id="3" type="number" value="1402.2935"></parameter>
+            <parameter id="4" type="number" value="10.474624"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="90"></parameter>
+        </task>
+        <task id="28">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-108.77042"></parameter>
+            <parameter id="3" type="number" value="1542.499"></parameter>
+            <parameter id="4" type="number" value="17.130978"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="90"></parameter>
+        </task>
+        <task id="29">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-111.15944"></parameter>
+            <parameter id="3" type="number" value="1691.5073"></parameter>
+            <parameter id="4" type="number" value="20.772636"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="90"></parameter>
+        </task>
+        <task id="30">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-85.060478"></parameter>
+            <parameter id="3" type="number" value="1732.8191"></parameter>
+            <parameter id="4" type="number" value="20.688656"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="40"></parameter>
+        </task>
+        <task id="31">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-68.497421"></parameter>
+            <parameter id="3" type="number" value="1773.0031"></parameter>
+            <parameter id="4" type="number" value="17.5375"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="30"></parameter>
+        </task>
+        <task id="32">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-63.459267"></parameter>
+            <parameter id="3" type="number" value="1953.7902"></parameter>
+            <parameter id="4" type="number" value="18.239649"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="40"></parameter>
+        </task>
+        <task id="33">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-66.221306"></parameter>
+            <parameter id="3" type="number" value="2005.4813"></parameter>
+            <parameter id="4" type="number" value="19.102386"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="50"></parameter>
+        </task>
+        <task id="34">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-100.50209"></parameter>
+            <parameter id="3" type="number" value="2062.1494"></parameter>
+            <parameter id="4" type="number" value="18.662804"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="60"></parameter>
+        </task>
+        <task id="35">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-171.49762"></parameter>
+            <parameter id="3" type="number" value="2224.9563"></parameter>
+            <parameter id="4" type="number" value="29.94997"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="70"></parameter>
+        </task>
+        <task id="36">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-161.76401"></parameter>
+            <parameter id="3" type="number" value="2284.8047"></parameter>
+            <parameter id="4" type="number" value="30.460445"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="50"></parameter>
+        </task>
+        <task id="37">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-96.135559"></parameter>
+            <parameter id="3" type="number" value="2366.7227"></parameter>
+            <parameter id="4" type="number" value="17.117252"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="50"></parameter>
+        </task>
+        <task id="38">
+            <parameter id="1" type="string" value="driveAroundBend"></parameter>
+            <parameter id="2" type="number" value="-94.541603"></parameter>
+            <parameter id="3" type="number" value="2391.8611"></parameter>
+            <parameter id="4" type="number" value="-91.370148"></parameter>
+            <parameter id="5" type="number" value="2370.1233"></parameter>
+            <parameter id="6" type="number" value="17.788652"></parameter>
+            <parameter id="7" type="number" value="-86.00209"></parameter>
+            <parameter id="8" type="number" value="2404.8689"></parameter>
+            <parameter id="9" type="number" value="16.279682"></parameter>
+            <parameter id="10" type="number" value="10"></parameter>
+            <parameter id="11" type="number" value="5"></parameter>
+        </task>
+        <task id="39">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-101.07692"></parameter>
+            <parameter id="3" type="number" value="2443.8259"></parameter>
+            <parameter id="4" type="number" value="16.196566"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="60"></parameter>
+        </task>
+        <task id="40">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-231.05644"></parameter>
+            <parameter id="3" type="number" value="2515.155"></parameter>
+            <parameter id="4" type="number" value="29.583153"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="60"></parameter>
+        </task>
+        <task id="41">
+            <parameter id="1" type="string" value="driveAroundBend"></parameter>
+            <parameter id="2" type="number" value="-334.61548"></parameter>
+            <parameter id="3" type="number" value="2538.0388"></parameter>
+            <parameter id="4" type="number" value="-330.51797"></parameter>
+            <parameter id="5" type="number" value="2524.0906"></parameter>
+            <parameter id="6" type="number" value="34.950008"></parameter>
+            <parameter id="7" type="number" value="-343.75604"></parameter>
+            <parameter id="8" type="number" value="2539.4856"></parameter>
+            <parameter id="9" type="number" value="36.514462"></parameter>
+            <parameter id="10" type="number" value="10"></parameter>
+            <parameter id="11" type="number" value="5"></parameter>
+        </task>
+        <task id="42">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-388.67355"></parameter>
+            <parameter id="3" type="number" value="2624.6079"></parameter>
+            <parameter id="4" type="number" value="44.891148"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="60"></parameter>
+        </task>
+        <task id="43">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-412.25986"></parameter>
+            <parameter id="3" type="number" value="2677.8955"></parameter>
+            <parameter id="4" type="number" value="56.135502"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="50"></parameter>
+        </task>
+        <task id="44">
+            <parameter id="1" type="string" value="driveAroundBend"></parameter>
+            <parameter id="2" type="number" value="-409.49066"></parameter>
+            <parameter id="3" type="number" value="2697.168"></parameter>
+            <parameter id="4" type="number" value="-421.1138"></parameter>
+            <parameter id="5" type="number" value="2702.4084"></parameter>
+            <parameter id="6" type="number" value="61.059517"></parameter>
+            <parameter id="7" type="number" value="-398.54196"></parameter>
+            <parameter id="8" type="number" value="2718.6245"></parameter>
+            <parameter id="9" type="number" value="62.138874"></parameter>
+            <parameter id="10" type="number" value="10"></parameter>
+            <parameter id="11" type="number" value="5"></parameter>
+        </task>
+        <task id="45">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="-340.13516"></parameter>
+            <parameter id="3" type="number" value="2672.0383"></parameter>
+            <parameter id="4" type="number" value="64.753937"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="number" value="40"></parameter>
+        </task>
+    </sequence>
+</sequences>

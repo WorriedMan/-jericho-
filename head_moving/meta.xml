@@ -1,0 +1,4 @@
+<meta>
+	<info author="JasperNL=D" version="1.0" type="script" description="type /smoke and theres an siggy in your mouth." />
+	<script src="head.lua" type="client" />
+</meta>

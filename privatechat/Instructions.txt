@@ -1,0 +1,7 @@
+1) Create folder on desktop , name it emotions
+
+2) extract these files to the folder
+
+3) Put the file "emotion" in your mta resources folder.
+
+4) start server, then start resource

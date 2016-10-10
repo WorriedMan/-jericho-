@@ -1,0 +1,62 @@
+<meta>
+    <script src="inv_server.lua" />
+    <script src="inv_client.lua" type="client" />
+	<script src="weapons_c.lua" type="client" />
+	<export function="givePlayerItemServer"/>
+	<export function="givePlayerItemServerWW"/>
+	<export function="givePlayerItem" type="client" />
+	<export function="givePlayerItemWW" type="client" />
+	
+	<export function="removePlayerItemServer"/>
+	<export function="removePlayerItem" type="client" />
+	
+	<export function="getItemIDFromPosition" type="client" />
+	<export function="removePlayerItemByPos" type="client" />
+	
+	<export function="getPlayerItemByID" type="client" />
+	<export function="getPlayerItemByIDServer" type="server" />
+	
+	<export function="getItemPosFromNull" type="client" />
+	<export function="getPlayerItemPosFromNull" type="server" />
+	
+	<export function="getFreeSlotInventory" type="client" />
+	<export function="getFreeSlotInventoryServer" type="server" />
+	
+	<export function="closeInventoryWindow" type="client" />
+	
+	<export function="getItemsTable" type="client" />
+	<export function="getItemsTableServer" type="server" />
+	<export function="getItemAmountServer" type="server" />
+	<export function="getItemAmount" type="client" />
+	<export function="getPlayerItemAmount" type="client" />
+	
+	<export function="checkPlayerWeight" type="client" />
+	<export function="checkPlayerWeightServer" type="server" />
+
+	<export function="takeInventoryWeapon" type="client" />
+	<export function="takeInventoryWeapon" type="server" />
+	
+	<export function="setPlayerRandItem" type="client" />
+	<export function="setPlayerRandItem" type="server" />
+	
+	<export function="getItemsLargeNull" type="client" />
+	<export function="getItemsLargeNull" type="server" />
+	
+	<export function="inventoryLoaded" type="server" />
+	<export function="inventoryLoadedOldWay" type="server" />
+	
+	<export function="useItem" type="client" />
+	<export function="reduceItemHealth" type="client" />
+	<export function="repairItem" type="client" />
+	<export function="getItemAmountByID" type="client" />
+	
+	<export function="checkPlayerFireAllowed" type="server" />
+	
+	<file src="sound/ui_items_generic_up_01.wav" />
+	<file src="sound/ui_items_generic_up_02.wav" />
+	<file src="sound/ui_items_generic_up_03.wav" />
+	<file src="sound/ui_items_generic_up_04.wav" />
+	<file src="sound/jam.ogg" />
+	
+    <info type="script" name="Sattelite destruction" author="PrettySweetie" version="1.0" />
+</meta>

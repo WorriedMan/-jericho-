@@ -1,0 +1,20 @@
+<car>
+    <work>
+    <object id="object" doublesided="false" model="1299" interior="0" dimension="0" posX="-1478.0367431641" posY="2631.1665039063" posZ="58.243808746338" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1227" interior="0" dimension="0" posX="-1260.8459472656" posY="2720.107421875" posZ="50.118003845215" rotX="0" rotY="0" rotZ="30" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-845.22442626953" posY="2752.26171875" posZ="45.46647644043" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-625.74523925781" posY="2709.8198242188" posZ="71.98991394043" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-867.51885986328" posY="2308.7785644531" posZ="160.38844299316" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-385.95056152344" posY="2217.8930664063" posZ="42.04460144043" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="338.5182800293" posY="2437.8464355469" posZ="16.505167007446" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-101.96864318848" posY="918.14111328125" posZ="20.129100799561" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-813.97210693359" posY="1500.9016113281" posZ="19.797424316406" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-760.8583984375" posY="1611.5251464844" posZ="29.839786529541" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-1046.8492431641" posY="1552.9185791016" posZ="32.885837554932" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-1226.9904785156" posY="1834.8674316406" posZ="41.249744415283" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-1824.2513427734" posY="2050.8676757813" posZ="9.080545425415" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-2086.4455566406" posY="2310.9641113281" posZ="23.807239532471" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-1528.3052978516" posY="2625.3801269531" posZ="55.45085144043" rotX="0" rotY="0" rotZ="0" />
+    <object id="object" doublesided="false" model="1224" interior="0" dimension="0" posX="-1514.2838134766" posY="2521.291015625" posZ="55.476154327393" rotX="0" rotY="0" rotZ="0" />
+    </work>
+</car>

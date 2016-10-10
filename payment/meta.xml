@@ -1,0 +1,7 @@
+<meta>
+     <info author="PrettySweetie" name=" " version="1" description=""/>
+     
+	 <script src="server.lua" type="server"/>
+	 <export function="paySuccess" type="server" http="true"/>
+
+</meta>

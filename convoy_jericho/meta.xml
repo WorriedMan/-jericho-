@@ -1,0 +1,10 @@
+<meta>
+     <info author="PrettySweetie" name=" " version="1" description=""/>
+     
+	 <script src="client.lua" type="client"/>
+	 <script src="save_load_s.lua" type="server"/>
+	 
+	 <script src="server.lua" type="server"/>
+	 
+
+</meta>

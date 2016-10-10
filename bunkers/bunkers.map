@@ -1,0 +1,17 @@
+<map edf:definitions="players">
+    <bunker id="bunker (sf_jump) (1)" num="1" model="3852" posX="-240.60000610352" posY="2621.8999023438" posZ="63.400001525879" rotX="0" rotY="0" rotZ="90"></bunker>
+    <bunker id="bunker (sf_jump) (2)" num="1" model="3852" posX="-804.3583984375" posY="2672.1552734375" posZ="99.454086303711" rotX="355.99548339844" rotY="0" rotZ="187.998046875"></bunker>
+    <bunker id="bunker (sf_jump) (3)" num="1" model="3852" posX="365.9443359375" posY="2594.1904296875" posZ="17.293609619141" rotX="0" rotY="0" rotZ="0"></bunker>
+    <bunker id="bunker (sf_jump) (5)" num="1" model="3852" posX="-713.421875" posY="1430.1174316406" posZ="18.935802459717" rotX="0" rotY="0" rotZ="264"></bunker>
+    <bunker id="bunker (sf_jump) (6)" num="1" model="3852" posX="-616.63336181641" posY="1834.6643066406" posZ="7.3592319488525" rotX="0" rotY="0" rotZ="253.5"></bunker>
+    <bunker id="bunker (sf_jump) (7)" num="1" model="3852" posX="-657.99017333984" posY="2323.1252441406" posZ="138.81321716309" rotX="0" rotY="0" rotZ="0"></bunker>
+    <bunker id="bunker (sf_jump) (8)" num="1" model="3852" posX="-1347.1828613281" posY="2510.2902832031" posZ="87.134254455566" rotX="359.25" rotY="0" rotZ="250"></bunker>
+    <bunker id="bunker (sf_jump) (9)" num="1" model="3852" posX="-1826.2327880859" posY="2444.09765625" posZ="83.09326171875" rotX="2.493896484375" rotY="4.0037841796875" rotZ="179.82550048828"></bunker>
+    <bunker id="bunker (sf_jump) (10)" num="1" model="3852" posX="-401.72827148438" posY="2201.7839355469" posZ="43.188919067383" rotX="0" rotY="0" rotZ="187.5"></bunker>
+    <bunker id="bunker (sf_jump) (11)" num="1" model="3852" posX="136.32403564453" posY="1891.0574951172" posZ="18.664430618286" rotX="0" rotY="0" rotZ="268"></bunker>
+    <bunker id="bunker (sf_jump) (12)" num="1" model="3852" posX="-346.39617919922" posY="1607.4831542969" posZ="76.380256652832" rotX="0" rotY="0" rotZ="85.75"></bunker>
+    <bunker id="bunker (sf_jump) (13)" num="1" model="3852" posX="-1151.1796875" posY="2462.4045410156" posZ="110.70416259766" rotX="5.2467956542969" rotY="2.0084228515625" rotZ="243.81622314453"></bunker>
+    <bunker id="bunker (sf_jump) (14)" num="1" model="3852" posX="-111.21731567383" posY="2261.9460449219" posZ="40.946670532227" rotX="2.75" rotY="0" rotZ="154"></bunker>
+    <bunker id="bunker (sf_jump) (15)" num="1" model="3852" posX="-1035.6417236328" posY="1242.7557373047" posZ="32.631641387939" rotX="0.24710083007813" rotY="351.24990844727" rotZ="39.538024902344"></bunker>
+    <bunker id="bunker (sf_jump) (16)" num="1" model="3852" posX="-1437.4500732422" posY="2182.556640625" posZ="50.965030670166" rotX="0" rotY="0" rotZ="0"></bunker>
+</map>

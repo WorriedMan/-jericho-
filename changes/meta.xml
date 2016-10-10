@@ -1,0 +1,143 @@
+<meta>
+	<info author="PrettySweetie" name="changes" version="1.0"/>
+	
+	<script src="ch_c.lua" type="client"/>
+	<script src="ch_s.lua" type="server"/>
+	<file src="des_nwtownpolice.txd" />
+	
+	
+
+	<file src="barracks.txd" />
+	<file src="barracks.dff" />
+	
+	<file src="moonbeam.txd" />
+	<file src="moonbeam.dff" />
+	
+	<file src="deathclaw.txd" />
+	<file src="deathclaw.dff" />
+	
+	<file src="flame.txd" />
+	<file src="flame.dff" />
+	<file src="minigun.txd" />
+	<file src="minigun.dff" />
+	
+	<file src="Ranger.txd" />
+	<file src="Ranger.dff" />
+	<file src="EnclaveScientist.dff" />
+	<file src="EnclaveScientist.txd"/>
+	<file src="Remnant.dff" />
+	<file src="Remnant.txd"/>
+	<file src="troop.dff" />
+	<file src="troop.txd"/>
+	
+<!-- 	<file src="taxi.txd" />
+	<file src="taxi.dff" /> -->	
+	
+	<file src="t-52c.txd" />
+	<file src="t-51b.txd" />
+	<file src="t-51b.dff" />
+	
+	<file src="2.txd" />
+	<file src="2.dff" />
+	
+<!-- 	<file src="zero.txd" />
+	<file src="zero.dff" /> -->
+
+	
+<!-- 	<file src="PsychoBandit.txd" />
+	<file src="PsychoBandit.dff" /> -->
+	
+	<file src="bfinject.txd" />
+	<file src="bfinject.dff" />
+	
+	<file src="bravura.txd" />
+	<file src="bravura.dff" />
+	
+	<file src="blistac.txd" />
+	<file src="blistac.dff" />
+	
+	<file src="sabre.txd" />
+	<file src="sabre.dff" />
+	<file src="micro_uzi.txd" />
+	<file src="micro_uzi.dff" />
+	<file src="bat.txd" />
+	<file src="bat.dff" />
+	<file src="chromegun.txd" />
+	<file src="chromegun.dff" />
+	<file src="sandking.txd" />
+	<file src="sandking.dff" />
+<!-- 	<file src="SK_ARMOR.txd" />
+	<file src="SK_ARMOR.dff" />
+	 -->
+	 <file src="fallout/reload.dff" />
+		<file src="fallout/reload.txd"/>
+		<file src="fallout/reload.col"/>
+	 
+		  <file src="fallout/kix.dff" />
+	  <file src="fallout/kix.txd" />
+	   <file src="fallout/kix.col"/>
+	   
+	   
+		<file src="fallout/crate.dff" />
+		<file src="fallout/crate.txd" />
+		<file src="fallout/crate.col"/>
+	   
+	   	  <file src="fallout/car02.dff" />
+		<file src="fallout/car02.txd"/>
+	   <file src="fallout/car02.col"/>
+	   
+		<file src="fallout/truck01.dff" />
+		<file src="fallout/truck01.txd"/>
+		<file src="fallout/truck01.col"/>
+
+		<file src="fallout/police.dff" />
+		<file src="fallout/police.txd"/>
+		<file src="fallout/police.col"/>
+		
+		<file src="fallout/ranch.dff" />
+		<file src="fallout/ranch.txd"/>
+		<file src="fallout/ranch.col"/>
+		
+		<file src="fallout/ranch2.dff"/>
+		<file src="fallout/ranch2.col"/>
+		
+		<file src="fallout/ranch3.dff" />
+		<file src="fallout/ranch3.txd"/>
+		<file src="fallout/ranch3.col"/>
+		
+		<file src="fallout/dest8.dff" />
+		<file src="fallout/dest8.txd"/>
+		<file src="fallout/dest8.col"/>
+		
+		<file src="fallout/home.dff"/>
+		<file src="fallout/home.txd"/>
+		<file src="fallout/home.col"/>
+		
+		<file src="fallout/radio.dff"/>
+		<file src="fallout/radio.txd"/>
+		<file src="fallout/radio.col"/>
+		
+		<file src="fallout/house2.dff"/>
+		<file src="fallout/house2.txd"/>
+		<file src="fallout/house2.col"/>
+		
+		<file src="fallout/shack.dff"/>
+		<file src="fallout/shack.txd"/>
+		<file src="fallout/shack.col"/>
+		
+		<file src="fallout/oldwest.dff"/>
+		<file src="fallout/oldwest.txd"/>
+		<file src="fallout/oldwest.col"/>
+		
+		<file src="fallout/gs_house.dff"/>
+		<file src="fallout/gs_house.txd"/>
+		<file src="fallout/gs_house.col"/>
+		
+		<file src="fallout/gs_house02.dff"/>
+		<file src="fallout/gs_house02.txd"/>
+		<file src="fallout/gs_house02.col"/>
+		
+		<file src="fallout/fungus.dff"/>
+		<file src="fallout/fungus.txd"/>
+		<file src="fallout/fungus.col"/>
+</meta>

@@ -1,0 +1,9 @@
+<meta>
+	<info author="MuLTi" version="1.0.0" type="script" description="Seizure script"/>
+	<script src="client.lua" type="client" />
+	<file src="song.mp3"/>
+	<file src="shader.fx"/>
+	<file src="shader2.fx"/>
+	<file src="logo.png"/>
+	<file src="warning.jpg"/>
+</meta>

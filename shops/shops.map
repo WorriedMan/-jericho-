@@ -1,0 +1,197 @@
+<!--
+
+<°))><
+
+Public Services - Shop map
+(c) 2008 mabako network. All Rights reserved.
+
+-->
+
+<map>
+	<!-- Food shops -->
+	<!--
+		id = the name of the image in images/ammu/<id>.png
+		name = the name to be shown
+		health = the health to give to the player
+		price = ...
+	
+	-->
+	<!-- BurgerShot -->
+	<shop	id="FDBURG"	type="food"	name="BurgerShot"	posX="377"	posY="-68"	posZ="1001.5"	rotation="0"	interior="10"	rows="2"	columns="2">
+		<article	id="BURLOW"	name="Moo Kids Meal"		price="2"	health="20"/>
+		<article	id="BURMED"	name="Beef Tower"		price="5"	health="40"/>
+		<article	id="BURHIG"	name="Meat Stack"		price="10"	health="70"/>
+		<article	id="BURHEAL"	name="Salad Meal"		price="5"	health="40"/>
+	</shop>
+	
+	<!-- Cluckin' Bell -->
+	<shop	id="FDCHICK"	type="food"	name="Cluckin' Bell"	posX="370"	posY="-6.5"	posZ="1001.85"	rotation="0"	interior="9"	rows="2"	columns="2">
+		<article	id="CLULOW"	name="Cluckin' Little Meal"	price="2"	health="20"/>
+		<article	id="CLUMED"	name="Cluckin' Big Meal"	price="5"	health="40"/>
+		<article	id="CLUHIG"	name="Cluckin' Huge Meal"	price="10"	health="70"/>
+		<article	id="CLUHEAL"	name="Salad Meal"		price="10"	health="40"/>
+	</shop>
+	
+	<!-- The Well Stacked Pizza Co. -->
+	<shop	id="FDPIZA"	type="food"	name="Well Stacked Pizza Co."	posX="374"	posY="-119"	posZ="1001.5"	rotation="0"	interior="5"	rows="2"	columns="2">
+		<article	id="PIZLOW"	name="Buster"			price="2"	health="20"/>
+		<article	id="PIZMED"	name="Double D-Luxe"		price="5"	health="40"/>
+		<article	id="PIZHIG"	name="Full Rack"		price="10"	health="70"/>
+		<article	id="PIZHEAL"	name="Salad Meal"		price="10"	health="40"/>
+	</shop>
+	
+	<!-- Ammu-Nation -->
+	<!--
+		id = the name of the image in images/ammu/<id>.png
+		name = the name to be shown
+		weaponid = the real ID of the weapon, see http://development.mtasa.com/index.php?title=Weapons
+		ammo = ...; don't add if it's melee
+		price = ...
+	-->
+	<!-- Ammu-Nation 1
+		- Los Santos, Market
+		- San Fierro, Ocean Flats
+	-->
+	<shop	id="AMMUN1"	type="ammu"	name="Ammu-Nation"	posX="295"	posY="-38"	posZ="1001.5"	rotation="180"	interior="1"	rows="3"	columns="6">
+		<!-- Row 1 -->
+		<article	id="COLT45"	name="Pistol"			price="200"	weaponid="22"	ammo="30"/>
+		<article	id="SILENCED"	name="Silenced Pistol"		price="600"	weaponid="23"	ammo="30"/>
+		<article	id="DEAGLE"	name="Desert Eagle"		price="1200"	weaponid="24"	ammo="15"/>
+		
+		<article	id="GRENADE"	name="Grenade"			price="300"	weaponid="16"	ammo="5"/>
+		<article	id="PARACHUTE"	name="Parachute"		price="800"	weaponid="46"/>
+		
+		<article	id="JETPACK"	name="Jetpack"			price="500"	fuel="50"/>
+
+		<!-- Row 2 -->
+		<article	id="SHOTGUN"	name="Shotgun"			price="600"	weaponid="25"	ammo="15"/>
+		<article	id="SAWNOFF"	name="Sawn-Off"			price="800"	weaponid="26"	ammo="12"/>
+		<article	id="COMBAT"	name="Combat Shotgun"		price="1000"	weaponid="27"	ammo="10"/>
+
+		<article	id="RIFLE"	name="Country Rifle"		price="600"	weaponid="33"	ammo="20"/>
+		<article	id="SNIPER"	name="Sniper Rifle"		price="5000"	weaponid="34"	ammo="10"/>
+		
+		<article	id="JETPACK"	name="Jetpack"			price="2000"	fuel="200"/>
+
+		<!-- Row 3 -->
+		<article	id="TEC9"	name="Tec9"			price="300"	weaponid="32"	ammo="60"/>
+		<article	id="MICROUZI"	name="Uzi"			price="500"	weaponid="28"	ammo="60"/>
+		<article	id="MP5"	name="MP5"			price="2000"	weaponid="29"	ammo="90"/>
+		
+		<article	id="AK47"	name="AK47"			price="3500"	weaponid="30"	ammo="120"/>
+		<article	id="M4"		name="M4"			price="4500"	weaponid="31"	ammo="150"/>
+
+		<article	id="JETPACK"	name="Jetpack"			price="5000"	fuel="500"/>
+	</shop>
+
+	<!-- Ammu-Nation 2
+		- Red County, Blueberry
+		- Red County, Palomino Creek
+		- Las Venturas, Come-A-Lot
+		- Las Venturas, Old Venturas Strip
+	-->
+	<shop	id="AMMUN2"	type="ammu"	name="Ammu-Nation"	posX="295.5"	posY="-80"	posZ="1001.5"	rotation="180"	interior="1"	rows="3"	columns="6">
+		<!-- Row 1 -->
+		<article	id="COLT45"	name="Pistol"			price="200"	weaponid="22"	ammo="30"/>
+		<article	id="SILENCED"	name="Silenced Pistol"		price="600"	weaponid="23"	ammo="30"/>
+		<article	id="DEAGLE"	name="Desert Eagle"		price="1200"	weaponid="24"	ammo="15"/>
+		
+		<article	id="GRENADE"	name="Grenade"			price="300"	weaponid="16"	ammo="5"/>
+		<article	id="PARACHUTE"	name="Parachute"		price="800"	weaponid="46"/>
+		
+		<article	id="JETPACK"	name="Jetpack"			price="500"	fuel="50"/>
+
+		<!-- Row 2 -->
+		<article	id="SHOTGUN"	name="Shotgun"			price="600"	weaponid="25"	ammo="15"/>
+		<article	id="SAWNOFF"	name="Sawn-Off"			price="800"	weaponid="26"	ammo="12"/>
+		<article	id="COMBAT"	name="Combat Shotgun"		price="1000"	weaponid="27"	ammo="10"/>
+
+		<article	id="RIFLE"	name="Country Rifle"		price="600"	weaponid="33"	ammo="20"/>
+		<article	id="SNIPER"	name="Sniper Rifle"		price="5000"	weaponid="34"	ammo="10"/>
+		
+		<article	id="JETPACK"	name="Jetpack"			price="2000"	fuel="200"/>
+
+		<!-- Row 3 -->
+		<article	id="TEC9"	name="Tec9"			price="300"	weaponid="32"	ammo="60"/>
+		<article	id="MICROUZI"	name="Uzi"			price="500"	weaponid="28"	ammo="60"/>
+		<article	id="MP5"	name="MP5"			price="2000"	weaponid="29"	ammo="90"/>
+		
+		<article	id="AK47"	name="AK47"			price="3500"	weaponid="30"	ammo="120"/>
+		<article	id="M4"		name="M4"			price="4500"	weaponid="31"	ammo="150"/>
+
+		<article	id="JETPACK"	name="Jetpack"			price="5000"	fuel="500"/>
+	</shop>	
+
+	<!-- Ammu-Nation 3
+		- Bone County
+		- Bone County, Fort Carson
+		- Whetstone, Angel Pine
+		- Los Santos, Willowfield
+	-->
+	<shop	id="AMMUN3"	type="ammu"	name="Ammu-Nation"	posX="290"	posY="-109"	posZ="1001.5"	rotation="180"	interior="1"	rows="3"	columns="6">
+		<!-- Row 1 -->
+		<article	id="COLT45"	name="Pistol"			price="200"	weaponid="22"	ammo="30"/>
+		<article	id="SILENCED"	name="Silenced Pistol"		price="600"	weaponid="23"	ammo="30"/>
+		<article	id="DEAGLE"	name="Desert Eagle"		price="1200"	weaponid="24"	ammo="15"/>
+		
+		<article	id="GRENADE"	name="Grenade"			price="300"	weaponid="16"	ammo="5"/>
+		<article	id="PARACHUTE"	name="Parachute"		price="800"	weaponid="46"/>
+		
+		<article	id="JETPACK"	name="Jetpack"			price="500"	fuel="50"/>
+
+		<!-- Row 2 -->
+		<article	id="SHOTGUN"	name="Shotgun"			price="600"	weaponid="25"	ammo="15"/>
+		<article	id="SAWNOFF"	name="Sawn-Off"			price="800"	weaponid="26"	ammo="12"/>
+		<article	id="COMBAT"	name="Combat Shotgun"		price="1000"	weaponid="27"	ammo="10"/>
+
+		<article	id="RIFLE"	name="Country Rifle"		price="600"	weaponid="33"	ammo="20"/>
+		<article	id="SNIPER"	name="Sniper Rifle"		price="5000"	weaponid="34"	ammo="10"/>
+		
+		<article	id="JETPACK"	name="Jetpack"			price="2000"	fuel="200"/>
+
+		<!-- Row 3 -->
+		<article	id="TEC9"	name="Tec9"			price="300"	weaponid="32"	ammo="60"/>
+		<article	id="MICROUZI"	name="Uzi"			price="500"	weaponid="28"	ammo="60"/>
+		<article	id="MP5"	name="MP5"			price="2000"	weaponid="29"	ammo="90"/>
+		
+		<article	id="AK47"	name="AK47"			price="3500"	weaponid="30"	ammo="120"/>
+		<article	id="M4"		name="M4"			price="4500"	weaponid="31"	ammo="150"/>
+
+		<article	id="JETPACK"	name="Jetpack"			price="5000"	fuel="500"/>
+	</shop>
+	
+	<!-- Ammu-Nation 5
+		- Tierra Robada, El Querebados
+	-->
+	<shop	id="AMMUN5"	type="ammu"	name="Ammu-Nation"	posX="312"	posY="-165.5"	posZ="999.6"	rotation="180"	interior="6"	rows="3"	columns="6">
+		<!-- Row 1 -->
+		<article	id="COLT45"	name="Pistol"			price="200"	weaponid="22"	ammo="30"/>
+		<article	id="SILENCED"	name="Silenced Pistol"		price="600"	weaponid="23"	ammo="30"/>
+		<article	id="DEAGLE"	name="Desert Eagle"		price="1200"	weaponid="24"	ammo="15"/>
+		
+		<article	id="GRENADE"	name="Grenade"			price="300"	weaponid="16"	ammo="5"/>
+		<article	id="PARACHUTE"	name="Parachute"		price="800"	weaponid="46"/>
+		
+		<article	id="JETPACK"	name="Jetpack"			price="500"	fuel="50"/>
+
+		<!-- Row 2 -->
+		<article	id="SHOTGUN"	name="Shotgun"			price="600"	weaponid="25"	ammo="15"/>
+		<article	id="SAWNOFF"	name="Sawn-Off"			price="800"	weaponid="26"	ammo="12"/>
+		<article	id="COMBAT"	name="Combat Shotgun"		price="1000"	weaponid="27"	ammo="10"/>
+
+		<article	id="RIFLE"	name="Country Rifle"		price="600"	weaponid="33"	ammo="20"/>
+		<article	id="SNIPER"	name="Sniper Rifle"		price="5000"	weaponid="34"	ammo="10"/>
+		
+		<article	id="JETPACK"	name="Jetpack"			price="2000"	fuel="200"/>
+
+		<!-- Row 3 -->
+		<article	id="TEC9"	name="Tec9"			price="300"	weaponid="32"	ammo="60"/>
+		<article	id="MICROUZI"	name="Uzi"			price="500"	weaponid="28"	ammo="60"/>
+		<article	id="MP5"	name="MP5"			price="2000"	weaponid="29"	ammo="90"/>
+		
+		<article	id="AK47"	name="AK47"			price="3500"	weaponid="30"	ammo="120"/>
+		<article	id="M4"		name="M4"			price="4500"	weaponid="31"	ammo="150"/>
+
+		<article	id="JETPACK"	name="Jetpack"			price="5000"	fuel="500"/>
+	</shop>
+</map>

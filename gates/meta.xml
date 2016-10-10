@@ -1,0 +1,6 @@
+<meta>
+	<info author="PrettySweetie" name="gates" version="1.0"/>
+	
+	<script src="gates_c.lua" type="client"/>
+	<script src="gates_s.lua" type="server"/>
+</meta>

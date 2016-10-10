@@ -1,0 +1,6 @@
+<meta>
+     <info author="PrettySweetie" name="Local voice chat" version="1" description=""/>
+
+	 <script src="server.lua" type="server"/>
+
+</meta>

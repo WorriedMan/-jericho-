@@ -1,0 +1,11 @@
+<meta>
+    <script src="shared.lua" type="shared" />
+    <script src="discounts.lua" type = "client"/>
+    <script src="trade_server.lua" />
+    <script src="trade_client.lua" type="client" />
+
+	<export function="showTraderWindow" type="client" />
+	<export function="showSellWindow" type="client" />
+		
+    <info type="script" name="Sattelite destruction" author="PrettySweetie" version="1.0" />
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+    <script src="inter_s.lua" type="server"/>
+	<script src="inter_c.lua" type="client"/>
+    <info type="script" name="interaction" author="PrettySweetie" version="1.0"/>
+</meta>

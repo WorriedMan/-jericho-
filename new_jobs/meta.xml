@@ -1,0 +1,12 @@
+<meta>
+     <info author="PrettySweetie" name="Part time job" version="1" description=""/>
+     
+	 <script src="coordsChiliad.lua" type="client"/>
+	 <script src="coordsDesert.lua" type="client"/>
+	 <script src="coordsLS.lua" type="client"/>
+	 <script src="coordsLV.lua" type="client"/>
+	 <script src="coordsSF.lua" type="client"/>
+	 <script src="client.lua" type="client"/>
+	 
+
+</meta>

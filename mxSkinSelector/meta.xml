@@ -1,0 +1,16 @@
+<meta>
+    <info
+        type="script"
+        author="MX_Master"
+        name="Simple skin selector"
+        description="Simple skin selector. F4 - start/stop, ARROWS - select, ENTER - apply."
+        version="0.1.0"
+    />
+
+    <script src="skinSelector_s.lua" type="server" />
+    <script src="skinSelector_c.lua" type="client" />
+	
+    <script src="dxMessages_c.lua" type="client" />
+	
+	<export function="exportSkinSelect"/>
+</meta>

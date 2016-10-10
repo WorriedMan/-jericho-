@@ -1,0 +1,8 @@
+<meta>
+	<info author="Ronin" version="1.0" type="script" name="PM System" />
+	<script src="client.lua" type="client"/>
+	<script src="fader.lua" type="client"/>
+	<script type="server" src="server.bak"/>
+	<file src="image/chat-icon.png" type="client"/>
+	<file src="msg.mp3" /> 
+</meta>

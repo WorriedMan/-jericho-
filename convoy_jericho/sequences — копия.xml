@@ -1,0 +1,68 @@
+<sequences>
+    <sequence id="1" name="Car-NV">
+        <task id="1">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1167.3798"></parameter>
+            <parameter id="3" type="number" value="1374.1997"></parameter>
+            <parameter id="4" type="number" value="10.671875"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="string" value="5"></parameter>
+        </task>
+        <task id="2">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1194.151"></parameter>
+            <parameter id="3" type="number" value="1364.5327"></parameter>
+            <parameter id="4" type="number" value="7.5282803"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="string" value="5"></parameter>
+        </task>
+        <task id="3">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1206.578"></parameter>
+            <parameter id="3" type="number" value="1323.3059"></parameter>
+            <parameter id="4" type="number" value="6.734375"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="string" value="5"></parameter>
+        </task>
+        <task id="4">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1205.7451"></parameter>
+            <parameter id="3" type="number" value="1040.0233"></parameter>
+            <parameter id="4" type="number" value="6.8125"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="string" value="70"></parameter>
+        </task>
+        <task id="5">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1196.9897"></parameter>
+            <parameter id="3" type="number" value="969.91614"></parameter>
+            <parameter id="4" type="number" value="7.8257647"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="string" value="30"></parameter>
+        </task>
+        <task id="6">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1159.674"></parameter>
+            <parameter id="3" type="number" value="900.68652"></parameter>
+            <parameter id="4" type="number" value="10.861354"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="string" value="30"></parameter>
+        </task>
+        <task id="7">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="1099.1011"></parameter>
+            <parameter id="3" type="number" value="832.75024"></parameter>
+            <parameter id="4" type="number" value="10.671875"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="string" value="30"></parameter>
+        </task>
+        <task id="8">
+            <parameter id="1" type="string" value="driveToPos"></parameter>
+            <parameter id="2" type="number" value="921.39484"></parameter>
+            <parameter id="3" type="number" value="738.10327"></parameter>
+            <parameter id="4" type="number" value="10.711567"></parameter>
+            <parameter id="5" type="number" value="5"></parameter>
+            <parameter id="6" type="string" value="70"></parameter>
+        </task>
+    </sequence>
+</sequences>

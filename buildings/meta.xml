@@ -1,0 +1,6 @@
+<meta>
+	<info author="PrettySweetie" name="Buildings System" version="1.0"/>
+	
+	<script src="build_main.lua"/>
+	<export function="toBuilding"/>
+</meta>

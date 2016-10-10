@@ -1,0 +1,69 @@
+<meta>
+	<info author="PrettySweetie" name="Player Manager" version="1.0" edf:definition="edf/bunkers.edf"/>
+	
+	<script src="players_main.lua"/>
+	<script src="register_c.lua" type="client"/>
+	<script src="mysql.lua" type="server"/>
+	<script src="lq_s.lua" type="server"/>
+	<script src="bunkers.lua"/>
+	<script src="players_c.lua" type="client"/>
+	
+	<script src="lang_server.lua"/>
+	<script src="lang_client.lua" type="client"/>
+	
+	<script src="vip_s.lua"/>
+	
+	<script src="pvp_s.lua"/>
+	<script src="pvp_c.lua" type="client"/>
+	
+	<script src="nfc_c.lua" type="client"/>
+	
+	<script src="hunger_c.lua" type="client"/>
+	
+	<script src="pickup.lua" type="server"/>
+	
+	<export function="isLoggedIn"/>
+	<export function="giveThisPlayerWanted"/>
+	<export function="entSucces"/>
+	<export function="giveXPInRange" type="server"/>
+	<export function="givePlayerXP" type="server"/>
+	<export function="givePlayerXPClient" type="client"/>
+	<export function="givePlayerNewHealth" type="client"/>
+	<export function="givePlayerNewHealth" type="server"/>
+	<export function="addNewNotification" type="client"/>
+	<export function="startGroupCreation" type="server"/>
+	<export function="givePlayerVirusClient" type="client"/>
+	<export function="givePlayerVirus" type="server"/>
+	<export function="givePlayerRadClient" type="client"/>
+	<export function="givePlayerRad" type="server"/>
+	<export function="givePlayerEatClient" type="client"/>
+	<export function="givePlayerEat" type="server"/>
+	<export function="takePlayerVirusClient" type="client"/>
+	<export function="takePlayerVirus" type="server"/>
+	<export function="takePlayerRadClient" type="client"/>
+	<export function="takePlayerRad" type="server"/>
+	<export function="takePlayerEatClient" type="client"/>
+	<export function="takePlayerEat" type="server"/>
+	<export function="restartMysqlConnection" type="server" />
+	<export function="updateVehiclesDB" type="server" />
+	<export function="createVehiclesRow" type="server" />
+	<export function="loadMysqlVehicles" type="server" />
+	<export function="updateCompassArrowPos" type="client" />
+	<export function="updateCompassAdditArrowPos" type="client" />
+	<export function="givePlayerAV" type="client" />
+	<export function="calculatePlayerAP" type="client" />
+	<export function="calculatePlayerHP" type="client" />
+	<export function="calculatePlayerDamage" type="client" />
+	<export function="askMysqlHandler" type="server" />
+	<export function="loadLoginPlayerAccount" type="server" />
+	<export function="startRegistration" type="client" />
+	
+	<export function="addPlayerVIP" type="server" />
+	<export function="setPlayerVIP" type="server" />
+	
+     <file src="sounds/lvlup.mp3" />
+	<file src="sounds/end.ogg" />
+		
+	 <file src="inter.dds" />
+     <file src="edf/zombiespawn.png" />
+</meta>

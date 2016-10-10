@@ -1,0 +1,12 @@
+<meta>
+	<info author="PrettySweetie" version="1" type="script" name="Safezones" description="" />
+	<script src="config.lua" type="shared" />
+	<script src="safezone_server.lua" type="server" />
+	<export function="getPlayerZoneConfig" type="shared" />
+	<export function="getZoneConfig" type="shared" />
+	<export function="checkPlayerSafezone" type="shared" />
+	<export function="setZoneSafe" type="server" />
+	<export function="checkIfPlayerInsideNewbieZone" type="server" />
+	
+	
+</meta>

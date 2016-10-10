@@ -1,0 +1,6 @@
+<meta>
+     <info author="PrettySweetie" name="Treasure" version="1" description="Перк 'Кладоискатель'"/>
+     
+	 <script src="client.lua" type="client"/>
+
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+	<info author="PrettySweetie" version="1.0.0" type="script" name="NZ"/>
+
+	<script src="nz_s.lua" type="server" />
+	<script src="nz_c.lua" type="client" />
+	
+	<export function="finishArenaFight" type="server" />
+	<export function="nextArenaRoundStart" type="server" />
+	
+	<file src="media/Ghoul.txd" />
+	<file src="media/Ghoul.dff" />
+	<file src="media/mutant.txd" />
+	<file src="media/mutant.dff" />
+</meta>

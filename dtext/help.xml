@@ -1,0 +1,19 @@
+<help>
+    ===3DT: Create 3D DirectX Texts Easily!===
+	Original Resource by The Kid.
+    
+	Are you tired about non-scripting-knowledge and to be unable to make 3D DirectX texts? 
+    Now you can do it easily with this resource that adds 2 simple ways to create a 3D Direct text :D!
+	
+	How to add a DirectX text:
+	
+    Option 1: Add to your resource a file named "texts.xml", then give him the texts with 4 parameters.
+    
+    Option 2: (This actually only works until this resource is stopped) Press F3 and create a text with that GUI. Is simple and fast
+    
+    Option 3: Use create3DText exported function. You can delete that text anytime by using destroyElement ;)
+    
+    element/bool create3DText ( float x, float y, float z, string text, int r, int g, int b, int a, string id )
+	
+	
+</help>

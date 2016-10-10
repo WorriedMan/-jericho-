@@ -1,0 +1,49 @@
+<meta>
+	<info author="50p" version="2.3" name="Bank System" type="script" />
+
+	<script src="server/bank.events.lua" />
+	<script src="server/bank.funcs.lua" />
+	<script src="server/bank.script.server.lua" />
+	<script src="server/bank.xml.server.lua" />
+	<script src="server/bank.sendATMs.lua" />
+	<script src="server/bank.exported.funcs.lua" />
+	<!-- remove this comment if you want to see how events and exported functions work
+	<script src="server/test.eventsAndFunctions.lua" /> 
+	-->
+
+	<script src="client/bank.gui.client.lua" type="client" />
+	<script src="client/bank.blips.client.lua" type="client" />
+	<script src="client/bank.collision.client.lua" type="client" />
+
+	<settings>
+		<setting name="@useATMs"		value="[true]" />
+		<!--
+		<setting name="@SQLTable" 		value="bank_accounts" />
+		<setting name="@SQLUserNameField" 	value="username" />
+		<setting name="@SQLMoneyField" 	value="balance" /> 
+		-->
+	</settings>
+
+	<file src="client/warning.png" />
+
+	<export function="getBankID" retval="int" params="string bankName/marker bankMarker" description="Returns ID of the specified bank." />
+	<export function="getBankMarker" retval="marker" params="string bankName/int bankID" description="Gets bank marker by ID or name." />
+	<export function="getBankName" retval="string" params="int bankID/marker bankMarker" description="Gets bank's name by ID or marker." />
+	<!--<export function="setBankName" />-->
+	<!--<export function="getBankPosition" />-->
+	<export function="getBankMarkers" retval="table" params="void" description="Returns a table containing all bank markers." />
+	<export function="getBankEntranceMarker" retval="marker" params="string bankName/int bankID/marker bankMarker" description="Gets bank's entrance marker." />
+	<export function="getBankExitMarker" retval="marker" params="string bankName/int bankID/marker bankMarker" description="Gets bank's exit marker." />
+	<export function="countBanks" retval="int" params="void" description="Returns number of banks." />
+	<export function="setBankAccountBalance" retval="bool/int" params="string accountName/player playerElement, int/string newbalance [, table SQLData ]" description="Sets bank account new balance. Returns new balance is set successfully, false otherwise." />
+	<export function="getBankAccountBalance" retval="bool/int" params="string accountName/player playerElement [, table SQLData ]" description="Gets the specified account balance." />
+
+	<export function="isPlayerInBank" retval="bool" params="player playerElement [, int bankID/marker bankMarker ]" description="Checks if player is in a bank." />
+	<export function="getPlayersInBank" retval="table" params="int bankID/marker bankMarker/string bankName" description="Returns a table containing players who are in specific bank." />
+	<export function="getPlayerBank" retval="marker" params="player playerElement" description="Gets bank marker in which specified player is standing." />
+
+	<export function="withdrawPlayerMoney" retval="bool" params="player playerElement, int amount [, table SQLData ]" description="Withdraws money from specific player's account." />
+	<export function="depositPlayerMoney" retval="bool" params="player playerElement, int amount [, table SQLData ]" description="Deposits specified player's specific amount of money." />
+
+	<config src="bank.locations.xml" />
+</meta>

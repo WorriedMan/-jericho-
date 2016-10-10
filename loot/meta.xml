@@ -1,0 +1,15 @@
+<meta>
+	<script src="bags.lua" type="server"/>
+	<script src="funguses.lua" type="server"/>
+    <script src="loots_s.lua" type="server"/>
+	<script src="loots_c.lua" type="client"/>
+	<export function="getLootState" type="client" />
+	<export function="setLootState" type="client" />
+	<export function="changeLootTable" type="client" />
+	<export function="createPlayerLootBox" type="server" />
+	<export function="createBagPlaceClient" type="client" />
+	<export function="createCustomLoot" type="server" />
+	<export function="putItemsInCustomLoot" type="server" />
+	<file src="edf/item.png" />
+    <info type="script" name="loots" author="PrettySweetie" version="1.0" edf:definition="edf/loots.edf"/>
+</meta>

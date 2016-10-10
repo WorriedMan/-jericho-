@@ -1,0 +1,7 @@
+<meta>
+     <info author="PrettySweetie" name="Buisneses System" />
+     <script src="dm_s.lua" />
+     <script src="dm_c.lua" type="client" />
+     <export function="toDMLobby"/>
+     <export function="toDMFromLobby"/>
+</meta>

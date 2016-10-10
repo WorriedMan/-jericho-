@@ -1,0 +1,10 @@
+<meta>
+     <info author="PrettySweetie" name=" " version="1" description=""/>
+     
+	 <script src="safes_c.lua" type="client"/>
+	 <script src="client.lua" type="client"/>
+	 <script src="server.lua" type="server"/>
+	 <export function="askPasswordWindowC" type="client" />
+	 
+
+</meta>

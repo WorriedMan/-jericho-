@@ -1,0 +1,10 @@
+<meta>
+	<info author="PrettySweetie" name="Jobs System" type="script" version="1.1"/>
+
+	<script src="jobs_main.lua"/>
+	<script src="new_jobs.lua"/>
+	<script src="deliverS.lua" />
+	<script src="deliverC.lua" type="client"/>
+	<export function="toWork"/>
+	<export function="startTripPost"/>
+</meta>

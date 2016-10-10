@@ -1,0 +1,11 @@
+<shops>
+	<shop name="TransFender">
+		<position X="1990.6890" Y="2056.8046" Z="10.7844" />
+	</shop>
+	<shop name="Loco Low Co.">
+		<position X="2499.6159" Y="-1779.8135" Z="13.3" />
+	</shop>
+	<shop name="Wheel Arch Angles">
+		<position X="-2128.791015625" Y="-116.654296875" Z="35.324047088623" />
+	</shop>
+</shops>

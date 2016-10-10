@@ -1,0 +1,26 @@
+<meta>
+	<info author="The_Kid" version="2.0" type="script" name="3D Texts" />
+	<script src="c.lua"     type="client" />
+	<script src="s.lua"     type="server" />
+	
+	<!-- For an example about how this works, delete this line,
+	<config src="texts.xml" type="server" />
+	and this line. -->
+	
+	<config src="help.xml" type="client" />
+	
+	<export function="create3DText" type="server" />
+	<export function="create3DText" type="client" />
+	
+	<settings>
+
+		<setting name="*scale"        value="1.5"       friendlyname="Text Scale"              accept="0.1-10.0"   desc="If a text doesn't include a scale value, it will use this." />
+		<setting name="*red"          value="204"       friendlyname="Text Red Color"          accept="0-255"      desc="If a text doesn't include a red color value, it will use this." />
+		<setting name="*green"        value="153"     friendlyname="Text Green Color"        accept="0-255"      desc="If a text doesn't include a green color value, it will use this." />
+		<setting name="*blue"         value="102"       friendlyname="Text Blue Color"         accept="0-255"      desc="If a text doesn't include a blue color value, it will use this." />
+		<setting name="*alpha"        value="255"     friendlyname="Text Alpha"              accept="0-255"      desc="If a text doesn't include an alpha value, it will use this." />
+		<setting name="*drawDistance" value="20"       friendlyname="Max Text Draw Distance"  accept="1-99999999" desc="The maximun distance a text can be drawed from the player." />
+		<setting name="*scale3d"      value="false"   friendlyname="3D-Size Text Simulation" accept="true,false" desc="Shall the texts simulate they are real 3D-sized objects?"/>
+ 	    <setting name="*font"         value="verdana" friendlyname="Global Text Font"        accept="default,default-bold, bankgothic, diploma, beckett, clear, verdana, pricedown" desc="Custom fonts for every text aren't supported yet. But with this setting you can set global font for all the texts."/>
+ </settings>
+</meta>

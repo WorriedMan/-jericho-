@@ -1,0 +1,7 @@
+<meta>
+	<info author="PrettySweetie" version="1.0.0" type="script" name="BANDS"/>
+
+	<script src="band_s.lua" type="server" />
+	<script src="band_c.lua" type="client" />
+	
+</meta>

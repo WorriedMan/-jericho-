@@ -1,0 +1,8 @@
+<meta>
+     <info author="PrettySweetie" name="Settings" version="1" description=""/>
+	 
+	 <script src="settings.lua" type="server"/>
+	 <script src="settings_c.lua" type="client"/>
+	 <export function="getServerSetting"/>
+
+</meta>

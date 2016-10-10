@@ -1,0 +1,9 @@
+<def name="Speedcams">
+	<element name="radzone" friendlyname="Radiation zone" icon="edf/radiation.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="size" type="number" default="5" />
+		<data name="level" type="number" default="1" />
+		<marker size="!size!" type="cylinder" color="#9370dbaa" />	
+		<blip icon="56"/>
+	</element>
+</def>

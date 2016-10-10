@@ -1,0 +1,45 @@
+<meta>
+	<info author="PrettySweetie" version="1" type="script" name="test" />
+	<script src="lang_client.lua" type="client" />
+	<script src="perk_client.lua" type="client" />
+	<script src="perk_server.lua" type="server" />
+	<min_mta_version client="1.3.1" server="1.3.1" />
+	<file src="boy/1.png" />
+	<file src="boy/2.png" />
+	<file src="boy/3.png" />
+	<file src="boy/4.png" />
+	<file src="boy/5.png" />
+	<file src="boy/6.png" />
+	<file src="boy/7.png" />
+	<file src="boy/8.png" />
+	<file src="boy/9.png" />
+	<file src="boy/10.png" />
+	<file src="boy/11.png" />
+	<file src="boy/12.png" />
+	<file src="boy/13.png" />
+	<file src="boy/14.png" />
+	<file src="boy/15.png" />
+	<file src="boy/16.png" />
+	<file src="boy/17.png" />
+	<file src="boy/18.png" />
+	<file src="boy/19.png" />
+	<file src="boy/20.png" />
+	<file src="boy/21.png" />
+	<file src="boy/22.png" />
+	<file src="boy/23.png" />
+	<file src="boy/24.png" />
+	<file src="boy/25.png" />
+	<file src="boy/26.png" />
+	<file src="boy/27.png" />
+	<file src="boy/28.png" />
+	<file src="boy/29.png" />
+	<file src="boy/30.png" />
+	<file src="boy/31.png" />
+	<file src="boy/32.png" />
+	<file src="boy/33.png" />
+	<file src="boy/34.png" />
+	<export function="createPerkChoose" type="client" />
+	<export function="loadPlayerPerks" type="server" />
+	<export function="getPlayerPerks" type="client" />
+	<export function="getPerkInfo" type="client" />
+</meta>

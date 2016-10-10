@@ -1,0 +1,19 @@
+<meta>
+	<info author="PrettySweetie" name="changes" version="1.0"/>
+	
+	<script src="ch_c.lua" type="client"/>
+	
+	
+
+	<file src="fam2.txd" />
+	<file src="fam2.dff" />
+	<file src="DS3.txd" />
+	<file src="DS3.dff" />
+	<file src="titan.txd" />
+	<file src="titan.dff" />
+	<file src="drova.dff" />
+	<file src="drova.txd" />
+	<file src="fam1.dff" />
+	<file src="fam1.txd" />
+
+</meta>

@@ -1,0 +1,27 @@
+<meta>
+     <info author="PrettySweetie" name="PipOS" version="1" description=""/>
+	 <file src="font.ttf"/>
+	 <script src="pipos_button.lua" type="client"/>
+	 <script src="pipos_label.lua" type="client"/>
+	 <script src="pipos_edit.lua" type="client"/>
+	 <script src="pipos_grid.lua" type="client"/>
+	 <script src="pipos_window.lua" type="client"/>
+	 
+	 <export function="createPipLabel" type="client" />
+	 <export function="destroyPipLabelByName" type="client" />
+	 <export function="destroyPipButtonByName" type="client" />
+	 <export function="getPipLabelByName" type="client" />
+	 <export function="setPipLabelVisible" type="client" />
+	 <export function="createPipWindow" type="client" />
+	 <export function="createPipButton" type="client" />
+	 <export function="createPipListExported" type="client" />
+	 <export function="getListTable" type="client" />
+	 <export function="createPipList" type="client" />
+	 <export function="pipListAddItem" type="client" />
+	 <export function="pipListSetItemData" type="client" />
+	 <export function="pipListGetItemData" type="client" />
+	 <export function="setItemVisible" type="client" />
+	 <export function="pipListClear" type="client" />
+	 <export function="destroyPipWindow" type="client" />
+
+</meta>

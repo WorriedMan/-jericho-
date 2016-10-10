@@ -1,0 +1,9 @@
+<meta>
+    <script src="utils_shared.lua" type="shared" />
+	<script src="utils_client.lua" type="client" />
+
+	<export function="getPlayerFPS" type="client" />
+	<export function="isPlayerInBuilding" type="client" />
+		
+    <info type="script" name="utils" author="PrettySweetie" version="2" />
+</meta>

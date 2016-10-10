@@ -1,0 +1,90 @@
+<meta>
+     <info author="PrettySweetie" type="script" name="Quest system" description="Quest system" version="1"/>
+	 
+	 <script src="quests_main.lua" type="client" cache="false"/>
+	 
+	 <script src="quest/main.lua" type="client" cache="false" />
+	 <script src="quest/main_s.lua" type="server"/>
+	 <script src="quest/soldiers.lua" type="client" cache="false" />
+	 <script src="quest/citizensNV.lua" type="client" cache="false" />
+	 <script src="quest/citizensSU.lua" type="client" cache="false"/>
+	 <script src="quest/citizensTP.lua" type="client" cache="false"/>
+	 <script src="quest/citizensRC.lua" type="client" cache="false"/>
+	 <script src="quest/citizensKL.lua" type="client" cache="false"/>
+	 <script src="quest/citizensHC.lua" type="client" cache="false"/>
+	 <script src="quest/caravaners.lua" type="client" cache="false"/>
+	 <script src="quest/craft_quest.lua" type="client" cache="false"/>
+	 
+	 <script src="tasks/main_s.lua" />
+	 <script src="tasks/main_c.lua" type="client" cache="false"/>
+	 <script src="quest/herbert.lua" type="client" cache="false"/>
+	 
+	 <script src="tasks/q_main_s.lua" />
+	 <script src="tasks/q_main_c.lua" type="client"cache="false" />
+	 
+	 <script src="tasks/q_samara_s.lua" type = "client"/>
+	 <script src="tasks/q_samara_c.lua" type="client" cache="false"/>
+	 <script src="quest/samara.lua" type="client" cache="false"/>
+	 
+	 <script src="tasks/militia_s.lua"/>
+	 <script src="quest/militia.lua" type="client" cache="false"/>
+	 
+	 <script src="quest/vehicle_c.lua" type="client" cache="false"/>
+	 <script src="quest/meh_c.lua" type="client" cache="false"/>
+	 
+	  <script src="tasks/sat_server.lua" />
+	 <script src="tasks/sat_client.lua" type="client" cache="false"/>
+	 
+	  <script src="tasks/q_detective_s.lua" type="server"/>
+	 
+	 <script src="ped_control/pedControlS.lua" />
+	 <script src="ped_control/pedControlC.lua" type="client"/>
+	 <script src="ped_control/mainPeds.lua" type="client"/>
+	
+     <export function="start_Main_Q" type="client"/>
+
+	<export function="isQuestWindowNotVisible" type="client"/>
+	<export function="isQuestWindowNotVisibleS" type="server"/>
+	
+	<export function="openDetectiveDoor" type="server"/>
+	 
+	<export function="unShowActLabel" type="client"/>
+	
+	 <file src="sounds/obj_radiotoweractivate.wav" />
+	 <file src="sounds/nc/bill_1.ogg" />
+	 <file src="sounds/nc/bill_2.ogg" />
+	  <file src="sounds/horror3.wav" />
+	 <file src="images/butt.png"/>
+	 <file src="sounds/again.ogg"/>
+	
+	<file src="skin/popeye.dff" />
+	<file src="skin/popeye.txd" />
+	
+	
+	<file src="skin/swat.dff" />
+	<file src="skin/swat.txd" />
+	
+	<file src="skin/samara.dff" />
+	<file src="skin/samara.txd" />
+	
+	<file src="skin/vgswlcmsign1.dff" />
+	<file src="skin/vgwwelcome.txd" />
+	
+	<file src="skin/wmyammo.txd" />
+	<file src="skin/wmyammo.dff" />
+	
+	<file src="skin/chuck.dff" />
+	<file src="skin/chuck.txd" />
+	<file src="jingle.mp3" />
+	 
+	 <export function="questLoadAllTasksS"/>
+	 <export function="playSoldAnimSU"/>
+	 
+	 <export function="showChatDxText" type="client"/>
+	 <export function="updateCompassAdditMarker" type="client"/>
+	 <export function="insanePlayerCreate" type="server"/>
+	 <export function="clamPlayerCreate" type="server"/>
+	 
+	 <export function="createMilitiaPed" type="server"/>
+	 <export function="destroyMilitiaPed" type="server"/>
+</meta>

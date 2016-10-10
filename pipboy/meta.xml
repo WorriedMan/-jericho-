@@ -1,0 +1,215 @@
+<meta>
+	<info author="PrettySweetie" version="1" type="script" name="test" />
+	<script src="pip.lua" type="client" />
+	<script src="quests.lua" type="client" />
+	<script src="inventory.lua" type="client" />
+	<script src="barter.lua" type="client" />
+	<script src="pipos.lua" type="client" />
+	<script src="radio.lua" type="client" />
+	<script src="textbox.lua" type="client" />
+	<script src="craft.lua" type="client" />
+	<script src="textfield.lua" type="client" />
+	<script src="full_stats.lua" type="client" />
+	<script src="speed.lua" type="client" />
+	<script src="perks.lua" type="client" />
+	<script src="pip_s.lua" type="server" />
+	
+	<min_mta_version client="1.3.1" server="1.3.1" />
+	<file src="arial.ttf" />
+	<file src="media/servmap.png" />
+	<file src="media/pip.dds" />
+	<file src="media/shadow.png" />
+	<file src="media/shadow2.png" />
+	<file src="media/numbers.png" />
+	<file src="media/months.png" />
+	<file src="media/craft.png" />
+	<file src="media/14046.ttf"/>
+	<file src="media/alarmIN.bmp" />
+	<file src="media/alarmOUT.bmp" />
+	<file src="media/inv/nvdlc01items_cloud_kis_lethal.dds" />
+	<file src="media/inv/nvdlc01items_sierra_madre_chip.dds" />
+	<file src="media/inv/items_stimpack.dds" />
+	<file src="media/inv/items_water.dds" />
+	<file src="media/inv/items_squirrel_stick.dds" />
+	<file src="media/inv/items_iguana_stick.dds" />
+	<file src="media/inv/item_psycho.dds" />
+	<file src="media/inv/items_radaway.dds" />
+	<file src="media/inv/item_passcard.dds" />
+	<file src="media/inv/item_torini_card.dds" />
+	<file src="media/inv/items_roach_meat.dds" />
+	<file src="media/inv/items_whiskey.dds" />
+	<file src="media/inv/items_vodka.dds" />
+	<file src="media/inv/missing_image.dds" />
+	<file src="media/inv/weapons_laser_pistol.dds" />
+	<file src="media/inv/items_fusion_cell.dds" />
+	
+	<file src="media/inv/item_xander_root.dds" />
+	<file src="media/inv/security_helmet.dds" />
+	<file src="media/inv/karma_saintly.dds" />
+	<file src="media/inv/karma_evil.dds" />
+	<file src="media/inv/items_stew.dds" />
+	<file src="media/inv/items_seeds.dds" />
+	<file src="media/inv/items_pork_beans.dds" />
+	<file src="media/inv/items_dog_meat.dds" />
+	<file src="media/inv/item_jet.dds" />
+	<file src="media/inv/apperal_raider_armor_3.dds" />
+	<file src="media/inv/item_repair_kit.dds" />
+	
+	<file src="media/inv/assault_rifle.dds" />
+	<file src="media/inv/items_5.56mm_rounds.dds" />
+	<file src="media/inv/weapons_pool_cue.dds" />
+	<file src="media/inv/radiation_resistance.dds" />
+	<file src="media/inv/perk_long_haul.dds" />
+	
+	<file src="media/inv/weapons_chainsaw.dds" />
+	<file src="media/inv/weapons_shovel.dds" />
+	<file src="media/inv/weapons_katana.dds" />
+	<file src="media/inv/weapons_rifle.dds" />
+	<file src="media/inv/weapons_silenced_22_pistol.dds" />
+	<file src="media/inv/weapons_sniper_rifle.dds" />
+	<file src="media/inv/weapons_single_shotgun.dds" />
+	<file src="media/inv/weapons_10mm_pistol.dds" />
+	<file src="media/inv/weapons_10mm_submachine_gun.dds" />
+	<file src="media/inv/weapons_american_assault_rifle.dds" />
+	<file src="media/inv/weapons_baton.dds" />
+	<file src="media/inv/weapons_combat_shotgun.dds" />
+	<file src="media/inv/weapons_flamer.dds" />
+	<file src="media/inv/weapons_sawed_off_shotgun.dds" />
+	<file src="media/inv/weapons_supersledge.dds" />
+	<file src="media/inv/weapons_minigun.dds" />
+	
+	<file src="media/inv/fungus.dds" />
+	<file src="media/inv/items_flamer_fuel.dds" />
+	<file src="media/inv/item_bleak_venom.dds" />
+	
+	<file src="media/inv/items_.50_bmg.dds" />
+	<file src="media/inv/items_.50_bmg_shell.dds" /> 	<!-- снайперка -->
+	<file src="media/inv/items_10mm_rounds.dds" /> <!-- мп5 наверн -->
+	<file src="media/inv/items_10mm_rounds_shell.dds" /> <!-- мп5 наверн -->
+	<file src="media/inv/items_.32calibur.dds" /> <!-- пистолет и бесшумный -->
+	<file src="media/inv/items_.32calibur_shell.dds" /> <!-- пистолет и бесшумный -->
+	<file src="media/inv/items_.45-70.dds" /> <!-- магнум -->
+	<file src="media/inv/items_.45-70_shell.dds" /> <!-- магнум -->
+	<file src="media/inv/items_40mm.dds" /> <!-- дробь -->
+	<file src="media/inv/items_40mm_shell.dds" />
+	<file src="media/inv/items_.308_ammo.dds" /> <!-- тек9 -->
+	<file src="media/inv/items_.308_ammo_shell.dds" /> <!-- тек9 -->
+	<file src="media/inv/items_12.7mm_ammo.dds" /> <!-- M4 -->
+	<file src="media/inv/items_12.7mm_ammo_shell.dds" /> <!-- M4 -->
+	
+	
+	<file src="media/inv/weapons_9mm_pistol.dds" /> <!-- 9мм -->
+	<file src="media/inv/items_9mm_ammo.dds" /> <!-- 9мм -->
+	<file src="media/inv/weapons_9mm_smg.dds" /> <!-- 9мм -->
+	<file src="media/inv/weapons_alien_blaster.dds" /> <!-- Бластер Чужих -->
+	<file src="media/inv/weapons_hunting_revolver.dds" /> 
+	<file src="media/inv/weapons_ranger_sequoia.dds" /> 
+	
+	<file src="media/inv/weapons_12.7mm_smg.dds" /> <!-- 12.7 -->
+	<file src="media/inv/weapons_12.7mm_pistol.dds" /> <!-- 12.7 -->
+	
+	<file src="media/inv/weapons_.357_revolver.dds" /> <!-- .357 магнум -->
+	<file src="media/inv/items_.357_magnum_round.dds" /> <!-- .357 магнум -->
+	
+	<file src="media/inv/weapons_gauss_rifle.dds" /> <!-- Гаусс -->
+	
+	<file src="media/inv/item_antivenom.dds" />
+	
+	
+	<file src="media/pip_use.wav" />
+	<file src="media/msg.wav" />
+	<file src="media/up.dds" />
+	<file src="media/barter_arrow.dds" />
+	
+	<file src="media/icon_map_military.dds" />
+	<file src="media/icon_map_settlement.dds" />
+	<file src="media/icon_map_encampment.dds" />
+	<file src="media/icon_map_encampment_inverted.dds" />
+	<file src="media/icon_map_settlement_inverted.dds" />
+	
+	<file src="media/sound/ui_menu_focus.wav" />
+	<file src="media/sound/ui_pipboy_mode.wav" />
+	<file src="media/sound/ui_pipboy_select.wav" />
+	<file src="media/sound/ui_items_generic_down.wav" />
+	
+	<file src="media/icons/glow_message_map.dds" />
+	<file src="media/icons/glow_message_giftbox.dds" />
+	<file src="media/icons/glow_message_radio_tower.dds" />
+	
+	<file src="media/icon_map_undiscovered.dds" />
+	<file src="media/icon_map_undiscovered_inverted.dds" />
+	
+	<file src="media/inv/sunset.dds" />
+	<file src="media/inv/cap.dds" />
+	<file src="media/inv/lighter.dds" />
+	<file src="media/inv/pin.dds" />
+	<file src="media/inv/item_doctors_bag.dds" />
+	<file src="media/inv/item_lunchbox.dds" />
+	<file src="media/inv/item_human_flesh.dds" />
+	<file src="media/inv/item_junk.dds" />
+	<file src="media/inv/item_morphine.dds" />
+	<file src="media/inv/cola.dds" />
+	<file src="media/inv/tablets.dds" />
+	<file src="media/inv/items_apple.dds" />
+	<file src="media/inv/items_drink.dds" />
+	<file src="media/inv/items_base.dds" />
+	<file src="media/inv/items_scope.dds" />
+	<file src="media/inv/items_stock.dds" />
+	<file src="media/inv/items_barrel.dds" />
+	<file src="media/inv/items_shot_tube.dds" />
+	<file src="media/inv/items_rifle_cust.dds" />
+	<file src="media/inv/items_rifle_tube.dds" />
+	<file src="media/inv/items_kit_cust.dds" />
+	<file src="media/inv/items_kit_cust.dds" />
+	<file src="media/inv/items_kit_mag.dds" />
+	<file src="media/inv/items_kit_base.dds" />
+	<file src="media/inv/items_amer_barrel.dds" />
+	<file src="media/inv/items_amer_mag.dds" />
+	<file src="media/inv/items_empty_container.dds" />
+	<file src="media/inv/spikes.dds" />
+	<file src="media/inv/apperal_ncr_fatigues_armor.dds" />
+	<file src="media/inv/apperal_tesla_armor.dds" />
+	<file src="media/inv/apparel_ncr_ranger_combat_armor.dds" />
+	<file src="media/inv/apperal_enclave_scientist.dds" />
+	<file src="media/inv/apperal_enclave_power_armor.dds" />
+	<file src="media/inv/items_skill_mags_melee.dds" />
+	<file src="media/inv/items_scroll.dds" />
+	<file src="media/inv/weapons_infiltrator_rifle.dds" />
+	
+	<file src="media/inv/items_stealthboy.dds" />
+	<file src="media/inv/item_bobby_pin.dds" />
+	
+	<export function="loadPlayerValues" type="client" />
+	<export function="updateRadLabel" type="client" />
+	<export function="updateLevelLabel" type="client" />
+	<export function="updateXPLabel" type="client" />
+	<export function="updateGKLabel" type="client" />
+	<export function="closePipBoy" type="client" />
+	<export function="initBarter" type="client" />
+	<export function="initCraft" type="client" />
+	<export function="closeBarterMenu" type="client" />
+	<export function="createPipBoyInv" type="client" />
+	
+	<export function="loadShortCuts" type="server" />
+	
+	<export function="addInfoBox" type="server" />
+	<export function="addInfoBox" type="client" />
+	
+	<export function="addMapIcon" type="server" />
+	<export function="addMapIcon" type="client" />
+	
+	<export function="deleteMapIcon" type="server" />
+	<export function="deleteMapIcon" type="client" />
+	
+	<export function="deleteMapIconByText" type="server" />
+	<export function="deleteMapIconByText" type="client" />
+	
+	<export function="showTextField" type="client" />
+	<export function="addCraftRecipe" type="client" />
+	<export function="initBarterBandit" type="client" />
+	<export function="initBarterSafe" type="client" />
+	<export function="getItemTexture" type="client" />
+	<export function="turnOffRadio" type="client" />
+	
+	<include resource="pipos" />
+</meta>

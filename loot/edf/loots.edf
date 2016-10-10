@@ -1,0 +1,8 @@
+<def name="Loots">
+	<element name="loot" friendlyname="Loot place" icon="edf/item.png">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="level" type="number" default="1" />
+		<object model="1271" type="cylinder" color="#9370dbaa" />	
+		<blip icon="50"/>
+	</element>
+</def>

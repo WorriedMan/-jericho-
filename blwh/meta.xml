@@ -1,0 +1,6 @@
+<meta>
+	<info name ="Black and White" description="Makes your screen Black and White" author ="MrHunter739" version="1.0.0" type="script" />
+	<script src="blackwhite.lua" type="client"/>
+	<file src="fx/blackwhite.fx" type="client"/>
+</meta>
+

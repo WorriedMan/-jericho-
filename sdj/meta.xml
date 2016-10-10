@@ -1,0 +1,28 @@
+<meta>
+    <script src="clientscript.lua" type="client" cache="false"/>
+    <file src="clientshader.fx" type="client" cache="false"/>
+	<file src="mta-helper.fx" type="client" />
+    <file src="1.dds" type="client" />
+    <file src="10.png" type="client" />
+  
+    <file src="21.dds" type="client" />
+    <file src="21_r.dds" type="client" />
+    <file src="24.dds" type="client" />
+    <file src="24.png" type="client" />
+    <file src="13.dds" type="client" />
+    <file src="5.png" type="client" />
+    <file src="grassRock.dds" type="client" />
+    <file src="grassRock_r.dds" type="client" />
+    <file src="grassRock_r2.dds" type="client" />
+    <file src="38.dds" type="client" />
+    <file src="38_r.dds" type="client" />
+    <file src="58.png" type="client" />
+    <file src="76.png" type="client" />
+    <file src="52.png" type="client" />
+    <file src="14.png" type="client" />
+    <file src="20.png" type="client" />
+    <file src="15.png" type="client" />
+    <file src="70.png" type="client" />
+    <file src="27.dds" type="client" />
+    <file src="32.dds" type="client" />
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+     <info author="PrettySweetie" name=" " version="1" description=""/>
+     
+	 <script src="client.lua" type="client"/>
+
+	 <file src="fly.png" type="client" />
+
+</meta>

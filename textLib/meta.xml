@@ -1,0 +1,8 @@
+<meta>
+     <info author="PrettySweetie" name="txLib" version="1.1"/>
+     <script src="textlib.lua" type="client"  />
+     <script src="textlib_s.lua" />
+
+     <export function="showMessageDX" type="client"/>
+
+</meta>

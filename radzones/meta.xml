@@ -1,0 +1,18 @@
+<meta>
+    <script src="radzones_s.lua" type="server"/>
+	<script src="radzones_c.lua" type="client"/>
+	<script src="rain_s.lua" type="server"/>
+	<script src="rain_c.lua" type="client"/>
+	<file src="sounds/hi/hi_1.mp3" />
+	<file src="sounds/hi/hi_2.mp3" />
+	<file src="sounds/hi/hi_3.mp3" />
+	<file src="sounds/med/med_1.mp3" />
+	<file src="sounds/med/med_2.mp3" />
+	<file src="sounds/med/med_3.mp3" />
+	<file src="sounds/low/low_1.mp3" />
+	<file src="sounds/low/low_2.mp3" />
+	<file src="sounds/low/low_3.mp3" />
+	<file src="glow_messages_radiation_seperator_arrow.dds" />
+	<file src="glow_messages_radiation_seperator_right.dds" />
+    <info type="script" name="Rad Zones" author="PrettySweetie" version="1.0" edf:definition="edf/radzones.edf"/>
+</meta>
